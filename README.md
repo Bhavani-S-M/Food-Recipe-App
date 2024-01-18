@@ -1,5 +1,5 @@
 # Food-Recipe-App
-#Introduction:
+Introduction:
 The Recipes App is a user-friendly Android application designed to cater to the increasing use of mobile devices for recipe searches. It addresses a gap in existing applications by offering a unique image-based UI for creating, searching, saving, and sharing recipes seamlessly. The app is implemented using Java and Android, ensuring a smooth and efficient user experience.
 
 Android Studio:
@@ -19,3 +19,13 @@ The main objectives of the app include helping users decide on recipes based on 
 
 Requirement Specification:
 Functional requirements include features like recipe search, clear recipe display, and offline access. Non-functional requirements focus on usability, performance, user interface design, platform compatibility, and scalability.
+
+Screenshots of output:
+![image](https://github.com/Bhavani-S-M/Food-Recipe-App/assets/142495873/4f5ff9dd-0d46-462b-b018-2e32234dc40a)
+
+![image](https://github.com/Bhavani-S-M/Food-Recipe-App/assets/142495873/f20779c7-6e2f-4074-9bd0-9e331d1086e6)
+
+![image](https://github.com/Bhavani-S-M/Food-Recipe-App/assets/142495873/4de357ad-58ed-43aa-9a38-501fba45df0f)
+
+
+
